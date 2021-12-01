@@ -1,0 +1,72 @@
+body {
+	font-family: sans-serif;
+	color: black;
+}
+
+* {
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+	text-decoration: none;
+}
+/*
+.sidebar {
+	position: fixed;
+	left: 0px;
+	height: 100%;
+	width: 250px;
+	background-color: #042331
+}
+
+.sidebar header {
+	color: white;
+	font-size: 22px;
+	text-align: center;
+	line-height: 70px;
+	background-color: #063146;
+
+}
+
+.sidebar ul a {
+	display: block;
+	height: 100%
+	width: 100%;
+	line-height: 65px;
+	font-size: 20px;
+	color: white;
+	padding-left: 40px;
+	box-sizing: border-box;
+	border-top: 1px solid rgba(255,255,255,.1);
+	border-bottom:1px solid black;
+	transition: .4s;
+}
+
+ul li:hover a {
+	padding-right: 50px;
+}
+*/
+#check {
+	display: none;
+	background: #042331
+} 
+}
+
+
+label #btn,label #cancel {
+	position: absolute;
+	cursor: pointer;
+} 
+
+label #btn {
+	left: 40px;
+	top: 25px;
+	font-size: 35px;
+	color: #042331
+}
+
+
+
+
+
+
+
